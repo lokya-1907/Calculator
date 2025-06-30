@@ -43,8 +43,11 @@ Deployment	Static Hosting (Optional)
 
 calculator/
 ├── index.html        # Main HTML file
+
 ├── style.css         # Styling for calculator layout
+
 ├── script.js         # JavaScript logic for calculator operations
+
 └── README.md         # Project documentation
 
 🚀 How to Run
